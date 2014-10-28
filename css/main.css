@@ -1,0 +1,7 @@
+body {
+  padding: 20px;
+  font-family: 'Roboto', sans-serif;
+}
+#map {
+  height: 400px;
+}
